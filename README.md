@@ -17,7 +17,7 @@ The certificates are available on Google Drive:
 ## Peer-Reviewed Publications
 ["DataGen: JSON/XML/CSV Dataset Generator"](https://github.com/wurzy/datagen) explores the steps taken in the development of DataGen, a versatile and powerful tool that allows for quick prototyping and testing of software applications, offering both the complexity and scalability necessary to generate adequate datasets in order to feed a data API or thrid party applications, enabling their testing with appropriate data volume and data complexity.
 
-If you're curious and want to read more, the full paper is currently available in the following repositories:
+If you're curious and want to know more about the project, you can read the full paper currently available in the following repositories:
 
 * [Dagstuhl Research Online Publication Server](https://drops.dagstuhl.de/opus/volltexte/2021/14423/)
 * [University of Minho Repository](http://repositorium.sdum.uminho.pt/handle/1822/73506)
