@@ -18,7 +18,7 @@ The certificates are available on Google Drive:
 
 GitHub doesn't render hyperlinks on PDFs for security reasons. 
 
-Instead, you can find both documents on Google Drive:
+Instead, you can find both CV documents on Google Drive:
 
 * [English Version](https://drive.google.com/file/d/1WclNaEDZg9IKFXyyhxIrDRmR13TaAcQS/view) 
 * [Portuguese Version](https://drive.google.com/file/d/1WclNaEDZg9IKFXyyhxIrDRmR13TaAcQS/view) 
