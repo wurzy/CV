@@ -7,7 +7,7 @@ Last update: 18/07/2022
 # Extras
 ## Honors & Awards
 
-I participated in the SLATE 2021 conference where me and my team presented the paper on the ["DataGen: A JSON/XML/CSV Dataset Generator"](https://github.com/wurzy/datagen) project. 
+I participated in the SLATE 2021 conference where me and my team presented the paper on the ["DataGen: JSON/XML/CSV Dataset Generator"](https://github.com/wurzy/datagen) project. 
 
 The certificates are available on Google Drive: 
 
