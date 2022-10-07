@@ -2,6 +2,7 @@
 
 You can find both the English and Portuguese versions of my CV in this repository.
 
+TODO: Swap the chronological order.
 Last update: 18/07/2022
 
 # Extras
