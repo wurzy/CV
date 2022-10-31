@@ -15,7 +15,7 @@ The certificates are available on Google Drive:
 * [Participation Certificate](https://drive.google.com/file/d/1uJArEPhul2bYqTNGhnIY34xtA5MjD-7p/view) 
 
 ## Peer-Reviewed Publications
-["DataGen: JSON/XML/CSV Dataset Generator"](https://github.com/wurzy/datagen) explores the steps taken in the development of DataGen, a versatile and powerful tool that allows for quick prototyping and testing of software applications, offering both the complexity and scalability necessary to generate adequate datasets in order to feed a data API or thrid party applications, enabling their testing with appropriate data volume and data complexity.
+["DataGen: JSON/XML/CSV Dataset Generator"](https://github.com/wurzy/datagen) explores the steps taken in the development of DataGen, a versatile and powerful tool that allows for quick prototyping and testing of software applications, offering both the complexity and scalability necessary to generate adequate datasets in order to feed a data API or third party applications, enabling their testing with appropriate data volume and data complexity.
 
 If you're curious and want to know more about the project, you can read the full paper currently available in the following repositories:
 
