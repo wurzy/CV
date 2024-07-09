@@ -27,6 +27,5 @@ If you're curious and want to know more about the project, you can read the full
 GitHub doesn't render hyperlinks on PDFs for security reasons. 
 
 Instead, you can find both CV documents on Google Drive:
-
-* [English Version](https://drive.google.com/file/d/18OA1_pka_vCqvB_qOduLSWvWzoQx9jZe/view?usp=sharing) 
+* [English Version](https://drive.google.com/file/d/14bgaJxPnzm2mZtqjwHH4iTlrIAALBoCC/view?usp=drive_link)
 * Portuguese Version - WIP
