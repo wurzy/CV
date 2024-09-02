@@ -1,8 +1,8 @@
 # Curriculum Vitae
 
-You can find both the English and Portuguese versions of my CV in this repository.
+You can find my CV in this repository.
 
-Last update: 12/10/2022
+Last update: 02/09/2024
 
 # Extras
 ## Honors & Awards
