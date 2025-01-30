@@ -2,7 +2,7 @@
 
 You can find my CV in this repository.
 
-Last update: 02/09/2024
+Last update: 30/01/2025
 
 # Extras
 ## Honors & Awards
